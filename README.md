@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+For BACKEND FOLDER refer here [backend](https://github.com/Deven4251/Shop-cip_backend).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
